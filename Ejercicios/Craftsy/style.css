@@ -1,0 +1,80 @@
+body{
+	background-color: cyan;
+ width: 1400px;
+}
+
+header{
+	width: 1140px;
+	overflow: hidden;
+	background-color: coral;
+	margin: 0 auto;
+}
+a{
+	margin: 5px 10px;
+	text-decoration: none;
+	color: white;
+}
+li{
+	list-style:none;
+}
+nav ul li a{
+	float: left;
+}
+nav ul li.login-registro{
+	float: right;
+}
+.flota{
+	float: right;
+}
+
+main{
+  margin-top: 20px;
+	width: 58%;
+	overflow: hidden;
+	margin-left: 130px;
+	float: left;
+}
+main div{
+	width: 356px;
+	margin:20px 10px;
+	padding: 10px;
+	float: left;
+}
+p{
+
+	justify-content:justify;
+	float:right;
+	font-size: 14px;
+	font-family: sans-serif;
+	margin-right: 10px;
+}
+
+section{
+	width: 24%;
+	float: left;
+	margin: 0px auto;
+}
+.fondoBlanco{
+	background-color: white;
+	}
+ .ad{
+	margin: 15px 6px 0px 35px;
+ }
+ section article div{
+	 margin-bottom: 2px;
+ }
+section h2{
+	padding: 7%;
+	margin-left: 35px;
+	margin-right: 5px
+	}
+.button {
+  background-color: red; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
