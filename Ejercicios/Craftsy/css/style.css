@@ -1,0 +1,43 @@
+body{
+	background-color:white;
+	
+}
+
+header{
+	width: 1140px;
+	overflow: hidden;
+}
+a{
+	
+	text-decoration: none;
+}
+li{
+	list-style:none;
+}
+nav ul li a{
+	float: left;
+}
+nav ul li.login-registro{
+	float: right;
+}
+nav{
+ overflow: hidden;
+}
+main{
+	width: 800px;
+	overflow: hidden;
+	margin: 0;
+	float: left;
+}
+main div{
+	width: 380px;
+	margin:20px 10px;
+	padding: 10px;
+	border: solid blue;
+	float: left;
+}
+section{
+	width: 320px;
+	float: right;
+	margin: 0 auto;
+}
